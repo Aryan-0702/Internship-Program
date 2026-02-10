@@ -1,4 +1,4 @@
-#! Write a program to print your name, age, and city in one line
+#! 1 Write a program to print your name, age, and city in one line
 
 # name = "Aryan"
 # age = 23
@@ -6,7 +6,7 @@
 
 # print(name,age,city)
 
-#! Take user input for two numbers and print their sum
+#! 2 Take user input for two numbers and print their sum
 
 # a = int(input("Enter first number: "))
 # b = int(input("Enter second number: "))
@@ -15,7 +15,7 @@
 
 # print("Sum:", sum)
 
-#! Write a program to convert temperature from Celsius to Fahrenheit
+#! 3 Write a program to convert temperature from Celsius to Fahrenheit
 # F=(C×9/5)+32
 
 # celsius = float(input("Enter temperature in Celsius: "))
@@ -24,13 +24,13 @@
 
 # print("Temperature in Fahrenheit:", Fahrenheit)
 
-#! Store your name in a variable and print it in uppercase
+#! 4 Store your name in a variable and print it in uppercase
 
 # name = str(input("Enter your name: "))
 
 # print(name.upper())
 
-#! Ask the user for their birth year and calculate their current age
+#! 5 Ask the user for their birth year and calculate their current age
 
 # birth = int(input("Enter your birth year: "))
 
@@ -38,21 +38,21 @@
 
 # print("Your age in 2026 is: ", year - birth)
 
-#! Write a program to swap the values of two variables
+#! 6 Write a program to swap the values of two variables
 
 # a = 5
 # b = 6
 
-# # c = b
-# # b = a
-# # a = c
+# c = b
+# b = a
+# a = c
 # print("Before swapping:")
 # print(a,b)
 # a,b = b,a
 # print("After swapping:")
 # print(a , b)
 
-#! Create a program to calculate the area of a rectangle from user input
+#! 7 Create a program to calculate the area of a rectangle from user input
 # Area=Length×Width
 
 # a = float(input("Enter length: "))
@@ -62,7 +62,7 @@
 
 # print(area)
 
-#! Write a program to check if a number is positive or negative 
+#! 8 Write a program to check if a number is positive or negative 
 
 # a = float(input("Enter number: "))
 
@@ -73,7 +73,7 @@
 # else:
 #     print("Number is 0")
 
-#! Ask for two numbers and print their average 
+#! 9 Ask for two numbers and print their average 
 
 a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
