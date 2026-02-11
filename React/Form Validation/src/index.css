@@ -1,0 +1,84 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:Segoe UI;
+}
+
+body{
+  background:linear-gradient(135deg,#667eea,#764ba2);
+  min-height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.container{
+  background:white;
+  padding:35px;
+  width:340px;
+  border-radius:20px;
+  box-shadow:0 15px 40px rgba(0,0,0,.2);
+  animation:fade .6s ease;
+}
+
+@keyframes fade{
+  from{opacity:0; transform:translateY(20px)}
+  to{opacity:1; transform:translateY(0)}
+}
+
+h2{
+  text-align:center;
+  margin-bottom:20px;
+}
+
+.inputGroup{
+  margin-bottom:18px;
+}
+
+input{
+  width:100%;
+  padding:12px;
+  border-radius:10px;
+  border:1px solid #ccc;
+  outline:none;
+  transition:.3s;
+}
+
+input:focus{
+  border-color:#667eea;
+}
+
+.errorInput{
+  border-color:red;
+  background:#fff5f5;
+}
+
+.error{
+  color:red;
+  font-size:13px;
+  margin-top:5px;
+  animation:shake .3s;
+}
+
+@keyframes shake{
+  25%{transform:translateX(-3px)}
+  50%{transform:translateX(3px)}
+  75%{transform:translateX(-3px)}
+}
+
+button{
+  width:100%;
+  padding:13px;
+  border:none;
+  background:#667eea;
+  color:white;
+  border-radius:12px;
+  font-size:16px;
+  cursor:pointer;
+  transition:.3s;
+}
+
+button:hover{
+  transform:scale(1.03);
+}
