@@ -1,0 +1,155 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap");
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:"Poppins",sans-serif;
+}
+
+body{
+  min-height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background: linear-gradient(135deg,#667eea,#764ba2);
+  animation: gradientMove 12s ease infinite;
+  background-size: 300% 300%;
+}
+
+@keyframes gradientMove{
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+
+.container{
+  backdrop-filter: blur(18px);
+  background: rgba(255,255,255,0.15);
+  border-radius:25px;
+  padding:30px;
+  width:340px;
+  text-align:center;
+  box-shadow:0 20px 50px rgba(0,0,0,0.25);
+  border:1px solid rgba(255,255,255,0.2);
+  animation: fadeIn 1s ease;
+}
+
+@keyframes fadeIn{
+  from{opacity:0; transform:translateY(20px)}
+  to{opacity:1; transform:translateY(0)}
+}
+
+/* search */
+
+.searchBox{
+  display:flex;
+  gap:10px;
+  margin-bottom:20px;
+}
+
+.searchBox input{
+  flex:1;
+  padding:12px;
+  border:none;
+  outline:none;
+  border-radius:12px;
+  background:rgba(255,255,255,0.3);
+  color:white;
+  font-size:14px;
+}
+
+.searchBox input::placeholder{
+  color:#eee;
+}
+
+.searchBox button{
+  padding:12px 18px;
+  border:none;
+  border-radius:12px;
+  background:white;
+  font-weight:600;
+  cursor:pointer;
+  transition:.3s;
+}
+
+.searchBox button:hover{
+  transform:scale(1.05);
+  background:#f1f1f1;
+}
+
+/* card */
+
+.card{
+  color:white;
+  animation: pop .6s ease;
+}
+
+@keyframes pop{
+  from{transform:scale(.8); opacity:0}
+  to{transform:scale(1); opacity:1}
+}
+
+.card h2{
+  font-weight:400;
+  margin-bottom:10px;
+}
+
+.card h1{
+  font-size:56px;
+  margin:10px 0;
+}
+
+.details{
+  display:flex;
+  justify-content:space-between;
+  margin-top:20px;
+  font-size:14px;
+}
+
+/* loader */
+
+.loader{
+  margin-top:20px;
+  color:white;
+  font-weight:600;
+  animation: blink 1s infinite alternate;
+}
+
+@keyframes blink{
+  from{opacity:.3}
+  to{opacity:1}
+}
+
+/* error */
+
+.error{
+  margin-top:15px;
+  color:#ffb3b3;
+  font-weight:500;
+}
+
+/* default cities */
+
+.defaultCities{
+  margin-top:15px;
+  display:flex;
+  gap:8px;
+  flex-wrap:wrap;
+  justify-content:center;
+}
+
+.cityBtn{
+  padding:6px 12px;
+  border-radius:20px;
+  border:none;
+  background:rgba(255,255,255,0.25);
+  color:white;
+  cursor:pointer;
+  transition:.3s;
+}
+
+.cityBtn:hover{
+  background:white;
+  color:#333;
+}
