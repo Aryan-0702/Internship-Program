@@ -1,6 +1,7 @@
 import axios from "axios";
 
 const API_KEY = "aef20d5381ff867b3ffe6a3f38f07392";
+// const API_KEY = "e83b606c45430796ff4da6cdb6979747";
 
 export const getWeather = async (city) => {
   try {

@@ -1,0 +1,15 @@
+E:\Intership 2026\.Net\Small OOP-Based Program\bin\Debug\net10.0\Small OOP-Based Program.exe
+E:\Intership 2026\.Net\Small OOP-Based Program\bin\Debug\net10.0\Small OOP-Based Program.deps.json
+E:\Intership 2026\.Net\Small OOP-Based Program\bin\Debug\net10.0\Small OOP-Based Program.runtimeconfig.json
+E:\Intership 2026\.Net\Small OOP-Based Program\bin\Debug\net10.0\Small OOP-Based Program.dll
+E:\Intership 2026\.Net\Small OOP-Based Program\bin\Debug\net10.0\Small OOP-Based Program.pdb
+E:\Intership 2026\.Net\Small OOP-Based Program\obj\Debug\net10.0\Small OOP-Based Program.GeneratedMSBuildEditorConfig.editorconfig
+E:\Intership 2026\.Net\Small OOP-Based Program\obj\Debug\net10.0\Small OOP-Based Program.AssemblyInfoInputs.cache
+E:\Intership 2026\.Net\Small OOP-Based Program\obj\Debug\net10.0\Small OOP-Based Program.AssemblyInfo.cs
+E:\Intership 2026\.Net\Small OOP-Based Program\obj\Debug\net10.0\Small OOP-Based Program.csproj.CoreCompileInputs.cache
+E:\Intership 2026\.Net\Small OOP-Based Program\obj\Debug\net10.0\Small OOP-Based Program.sourcelink.json
+E:\Intership 2026\.Net\Small OOP-Based Program\obj\Debug\net10.0\Small OOP-Based Program.dll
+E:\Intership 2026\.Net\Small OOP-Based Program\obj\Debug\net10.0\refint\Small OOP-Based Program.dll
+E:\Intership 2026\.Net\Small OOP-Based Program\obj\Debug\net10.0\Small OOP-Based Program.pdb
+E:\Intership 2026\.Net\Small OOP-Based Program\obj\Debug\net10.0\Small OOP-Based Program.genruntimeconfig.cache
+E:\Intership 2026\.Net\Small OOP-Based Program\obj\Debug\net10.0\ref\Small OOP-Based Program.dll

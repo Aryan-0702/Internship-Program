@@ -1,0 +1,98 @@
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\bin\Debug\net10.0\appsettings.Development.json
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\bin\Debug\net10.0\appsettings.json
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\bin\Debug\net10.0\Environment-Based Configuration and Services.staticwebassets.runtime.json
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\bin\Debug\net10.0\Environment-Based Configuration and Services.staticwebassets.endpoints.json
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\bin\Debug\net10.0\Environment-Based Configuration and Services.exe
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\bin\Debug\net10.0\Environment-Based Configuration and Services.deps.json
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\bin\Debug\net10.0\Environment-Based Configuration and Services.runtimeconfig.json
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\bin\Debug\net10.0\Environment-Based Configuration and Services.dll
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\bin\Debug\net10.0\Environment-Based Configuration and Services.pdb
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\Environment-Based Configuration and Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\Environment-Based Configuration and Services.AssemblyInfoInputs.cache
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\Environment-Based Configuration and Services.AssemblyInfo.cs
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\Environment-Based Configuration and Services.csproj.CoreCompileInputs.cache
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\Environment-Based Configuration and Services.MvcApplicationPartsAssemblyInfo.cache
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\Environment-Based Configuration and Services.RazorAssemblyInfo.cache
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\Environment-Based Configuration and Services.RazorAssemblyInfo.cs
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\Environment-Based Configuration and Services.sourcelink.json
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\scopedcss\bundle\Environment-Based Configuration and Services.styles.css
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\scopedcss\projectbundle\Environment-Based Configuration and Services.bundle.scp.css
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\1mpjag2qns-{0}-b9sayid5wm-b9sayid5wm.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\6peo3lddsa-{0}-61n19gt1b8-61n19gt1b8.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\dxzjrb6nmq-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\7s4egeb4n1-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\uhuaq137az-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\cgw0z9zqrc-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\hxvmfdpgge-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\hceq3u6ouv-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\rkl3c5dcsf-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\1vyplp3dek-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\jsxw4khhti-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\9d8ol1lptj-{0}-ub07r2b239-ub07r2b239.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\kob8dy6t26-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\z28uvepiir-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\z0xbz52viw-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\2boev5wcon-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\gdbm6ziuq3-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\ow2jt9ku5h-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\ddevgp9u8v-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\eh4swr3mwd-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\u3wbmklgg5-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\94ee89vay4-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\yep5ti8rid-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\ursjv0lva6-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\ius5kf9509-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\0mrnu9b8a8-{0}-06098lyss8-06098lyss8.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\6efoyyq8um-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\ae7lf0z5uk-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\7grn310elz-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\0g4jmrpek2-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\fa82ffkcqw-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\eaay317r85-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\5kbt6gi0ap-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\mu2y6hnuj3-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\egakis4n9x-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\pmquxvirez-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\rlvq7jzh68-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\79s9bgxm48-{0}-493y06b0oq-493y06b0oq.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\8uei2uxyru-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\57lgr08nj9-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\zn0kb1crv5-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\rdzs7rvdzw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\calyhbz2k6-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\ytnrcum36i-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\emeymyuadx-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\i006r661lw-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\cnwuv8z0ak-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\szapu1o04q-{0}-47otxtyo56-47otxtyo56.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\j2tggwzf5u-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\o2269w0gn5-{0}-356vix0kms-356vix0kms.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\7xi40l79bu-{0}-83jwlth58m-83jwlth58m.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\dmryv615zy-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\b2g052ctoz-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\sh64qd4l0e-{0}-ag7o75518u-ag7o75518u.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\gkhfs4pgej-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\qrd27ks41g-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\9vvhwlht10-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\x9dty3f1zh-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\rfzjsw76nu-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\wsi6134m83-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\t2w9rnjdzv-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\3pz9630r52-{0}-mlv21k5csn-mlv21k5csn.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\el1ourl7on-{0}-c5gd5uvp8s-c5gd5uvp8s.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\compressed\ayq2sz2mx6-{0}-c5gd5uvp8s-c5gd5uvp8s.gz
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\staticwebassets.build.json
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\staticwebassets.development.json
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\swae.build.ex.cache
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\Environment-Based Configuration and Services.dll
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\refint\Environment-Based Configuration and Services.dll
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\Environment-Based Configuration and Services.pdb
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\Environment-Based Configuration and Services.genruntimeconfig.cache
+E:\Intership 2026\.Net\Environment-Based Configuration and Services\obj\Debug\net10.0\ref\Environment-Based Configuration and Services.dll

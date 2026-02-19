@@ -1,0 +1,33 @@
+@model StudentCrudApp.Models.Student
+
+<h2>Add Student</h2>
+
+<form method="post">
+
+Name:
+<input asp-for="Name" />
+<span asp-validation-for="Name"></span>
+<br />
+
+Department:
+<input asp-for="Department" />
+<span asp-validation-for="Department"></span>
+<br />
+
+Year:
+<input asp-for="Year" />
+<span asp-validation-for="Year"></span>
+<br />
+
+Marks:
+<input asp-for="Marks" />
+<span asp-validation-for="Marks"></span>
+<br />
+
+<button type="submit">Save</button>
+
+</form>
+
+@section Scripts{
+<partial name="_ValidationScriptsPartial" />
+}

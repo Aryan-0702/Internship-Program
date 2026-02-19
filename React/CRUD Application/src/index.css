@@ -1,0 +1,180 @@
+/* ===== GLOBAL ===== */
+*{
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
+
+body{
+  font-family: "Inter", sans-serif;
+  min-height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background: linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+  overflow:hidden;
+}
+
+/* animated background blobs */
+body::before,
+body::after{
+  content:"";
+  position:absolute;
+  width:400px;
+  height:400px;
+  border-radius:50%;
+  filter:blur(120px);
+  z-index:-1;
+  animation: float 12s infinite alternate ease-in-out;
+}
+
+body::before{
+  background:#00f2ff;
+  top:-100px;
+  left:-100px;
+}
+
+body::after{
+  background:#ff00c8;
+  bottom:-100px;
+  right:-100px;
+}
+
+@keyframes float{
+  from{ transform:translateY(0px);}
+  to{ transform:translateY(60px);}
+}
+
+/* ===== CARD CONTAINER ===== */
+.container{
+  width:420px;
+  backdrop-filter:blur(20px);
+  background:rgba(255,255,255,0.08);
+  border:1px solid rgba(255,255,255,0.2);
+  border-radius:25px;
+  padding:30px;
+  color:white;
+  box-shadow:0 20px 60px rgba(0,0,0,.35);
+  animation: fadeIn .8s ease;
+}
+
+@keyframes fadeIn{
+  from{
+    opacity:0;
+    transform:translateY(40px);
+  }
+  to{
+    opacity:1;
+    transform:translateY(0);
+  }
+}
+
+.title{
+  text-align:center;
+  margin-bottom:25px;
+  font-size:28px;
+  font-weight:600;
+  letter-spacing:1px;
+}
+
+/* ===== INPUTS ===== */
+input{
+  width:100%;
+  padding:12px 15px;
+  border-radius:12px;
+  border:none;
+  margin-bottom:12px;
+  outline:none;
+  background:rgba(255,255,255,0.12);
+  color:white;
+  font-size:14px;
+  transition:.3s;
+}
+
+input::placeholder{
+  color:rgba(255,255,255,.6);
+}
+
+input:focus{
+  background:rgba(255,255,255,0.2);
+  transform:scale(1.02);
+}
+
+/* ===== BUTTONS ===== */
+button{
+  border:none;
+  padding:10px 16px;
+  border-radius:12px;
+  cursor:pointer;
+  font-weight:500;
+  transition:.25s;
+}
+
+button:hover{
+  transform:translateY(-2px) scale(1.03);
+}
+
+.add{
+  width:100%;
+  margin-top:5px;
+  background:linear-gradient(45deg,#00f2ff,#00ffa6);
+  color:#003;
+}
+
+.toggle{
+  background:#4facfe;
+  color:white;
+}
+
+.del{
+  background:#ff4b5c;
+  color:white;
+}
+
+/* ===== TASK CARD ===== */
+.task{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:15px;
+  margin-top:14px;
+  border-radius:15px;
+  background:rgba(255,255,255,0.12);
+  backdrop-filter:blur(8px);
+  animation:slideIn .4s ease;
+  transition:.25s;
+}
+
+.task:hover{
+  transform:scale(1.02);
+  background:rgba(255,255,255,0.18);
+}
+
+@keyframes slideIn{
+  from{
+    opacity:0;
+    transform:translateX(-40px);
+  }
+  to{
+    opacity:1;
+    transform:translateX(0);
+  }
+}
+
+/* done task */
+.done{
+  opacity:.55;
+  text-decoration:line-through;
+}
+
+/* buttons container */
+.task div:last-child button{
+  margin-left:8px;
+}
+
+/* empty text */
+p{
+  text-align:center;
+  opacity:.7;
+  margin-top:20px;
+}

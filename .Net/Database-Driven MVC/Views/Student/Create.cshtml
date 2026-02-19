@@ -1,0 +1,30 @@
+@model StudentDbApp.Models.Student
+
+<h2>Add Student</h2>
+
+<form method="post">
+
+Name:
+<input asp-for="Name" />
+<span asp-validation-for="Name"></span>
+<br />
+
+Department:
+<input asp-for="Department" />
+<br />
+
+Year:
+<input asp-for="Year" />
+<br />
+
+Marks:
+<input asp-for="Marks" />
+<br />
+
+<button type="submit">Save</button>
+
+</form>
+
+@section Scripts{
+<partial name="_ValidationScriptsPartial" />
+}

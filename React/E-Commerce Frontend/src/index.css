@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:Poppins;
+}
+
+body{
+  background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+  color:white;
+  min-height:100vh;
+}
+
+/* NAVBAR */
+.nav{
+  display:flex;
+  justify-content:space-between;
+  padding:18px 40px;
+  backdrop-filter:blur(10px);
+  background:rgba(255,255,255,0.05);
+}
+
+.nav a{
+  margin-left:20px;
+  text-decoration:none;
+  color:white;
+  font-weight:500;
+  transition:.3s;
+}
+
+.nav a:hover{
+  color:#00f2ff;
+}
+
+/* GRID */
+.grid{
+  padding:40px;
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:30px;
+}
+
+/* CARD */
+.card{
+  background:rgba(255,255,255,0.05);
+  border-radius:20px;
+  padding:20px;
+  text-align:center;
+  transition:.4s;
+  animation:fadeIn .6s ease;
+}
+
+.card:hover{
+  transform:translateY(-10px) scale(1.02);
+  box-shadow:0 10px 30px rgba(0,0,0,.5);
+}
+
+.card img{
+  height:150px;
+  object-fit:contain;
+}
+
+.cardBtns{
+  margin-top:10px;
+  display:flex;
+  justify-content:center;
+  gap:10px;
+}
+
+.card button,.card a{
+  border:none;
+  padding:8px 16px;
+  border-radius:8px;
+  cursor:pointer;
+  background:#00f2ff;
+  color:black;
+  text-decoration:none;
+  font-weight:bold;
+  transition:.3s;
+}
+
+.card button:hover,.card a:hover{
+  background:#00bcd4;
+}
+
+/* DETAILS */
+.details{
+  padding:40px;
+  display:flex;
+  gap:40px;
+  animation:fadeIn .6s ease;
+}
+
+.details img{
+  width:300px;
+  background:white;
+  border-radius:20px;
+  padding:20px;
+}
+
+.details button{
+  margin-top:20px;
+  padding:12px 24px;
+  border:none;
+  background:#00f2ff;
+  border-radius:12px;
+  cursor:pointer;
+}
+
+/* CART */
+.cart{
+  padding:40px;
+}
+
+.cartItem{
+  display:flex;
+  align-items:center;
+  gap:20px;
+  background:rgba(255,255,255,0.05);
+  margin:15px 0;
+  padding:15px;
+  border-radius:15px;
+}
+
+.cartItem img{
+  height:80px;
+}
+
+/* LOADER */
+.loader{
+  margin:100px auto;
+  width:60px;
+  height:60px;
+  border-radius:50%;
+  border:6px solid #00f2ff;
+  border-top:6px solid transparent;
+  animation:spin 1s linear infinite;
+}
+
+.error{
+  text-align:center;
+  margin-top:100px;
+  color:red;
+}
+
+@keyframes spin{
+  to{ transform:rotate(360deg);}
+}
+
+@keyframes fadeIn{
+  from{opacity:0; transform:translateY(20px)}
+  to{opacity:1; transform:translateY(0)}
+}
+.cartItem button{
+  background:#00f2ff;
+  border:none;
+  padding:6px 12px;
+  border-radius:8px;
+  cursor:pointer;
+  font-weight:bold;
+}

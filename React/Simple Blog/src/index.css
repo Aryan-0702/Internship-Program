@@ -1,0 +1,55 @@
+body{
+  margin:0;
+  font-family:Segoe UI;
+  background:linear-gradient(135deg,#141e30,#243b55);
+  min-height:100vh;
+  display:flex;
+  justify-content:center;
+}
+
+.container{
+  width:700px;
+  padding:30px;
+}
+
+.title{
+  text-align:center;
+  color:white;
+  margin-bottom:30px;
+}
+
+/* card */
+
+.card{
+  background:rgba(255,255,255,.08);
+  padding:20px;
+  border-radius:15px;
+  margin-bottom:20px;
+  color:white;
+  cursor:pointer;
+  transition:.3s;
+}
+
+.card:hover{
+  transform:translateY(-5px);
+  background:rgba(255,255,255,.15);
+}
+
+/* detail */
+
+.detail{
+  background:rgba(255,255,255,.08);
+  padding:25px;
+  border-radius:15px;
+  color:white;
+}
+
+.back{
+  margin-bottom:15px;
+  padding:8px 14px;
+  border:none;
+  border-radius:10px;
+  cursor:pointer;
+  background:#00c6ff;
+  color:white;
+}

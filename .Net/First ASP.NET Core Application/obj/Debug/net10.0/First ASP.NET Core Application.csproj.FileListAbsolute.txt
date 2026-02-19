@@ -1,0 +1,98 @@
+E:\Intership 2026\.Net\First ASP.NET Core Application\bin\Debug\net10.0\appsettings.Development.json
+E:\Intership 2026\.Net\First ASP.NET Core Application\bin\Debug\net10.0\appsettings.json
+E:\Intership 2026\.Net\First ASP.NET Core Application\bin\Debug\net10.0\First ASP.NET Core Application.staticwebassets.runtime.json
+E:\Intership 2026\.Net\First ASP.NET Core Application\bin\Debug\net10.0\First ASP.NET Core Application.staticwebassets.endpoints.json
+E:\Intership 2026\.Net\First ASP.NET Core Application\bin\Debug\net10.0\First ASP.NET Core Application.exe
+E:\Intership 2026\.Net\First ASP.NET Core Application\bin\Debug\net10.0\First ASP.NET Core Application.deps.json
+E:\Intership 2026\.Net\First ASP.NET Core Application\bin\Debug\net10.0\First ASP.NET Core Application.runtimeconfig.json
+E:\Intership 2026\.Net\First ASP.NET Core Application\bin\Debug\net10.0\First ASP.NET Core Application.dll
+E:\Intership 2026\.Net\First ASP.NET Core Application\bin\Debug\net10.0\First ASP.NET Core Application.pdb
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\First ASP.NET Core Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\First ASP.NET Core Application.AssemblyInfoInputs.cache
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\First ASP.NET Core Application.AssemblyInfo.cs
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\First ASP.NET Core Application.csproj.CoreCompileInputs.cache
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\First ASP.NET Core Application.MvcApplicationPartsAssemblyInfo.cache
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\First ASP.NET Core Application.RazorAssemblyInfo.cache
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\First ASP.NET Core Application.RazorAssemblyInfo.cs
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\First ASP.NET Core Application.sourcelink.json
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\scopedcss\bundle\First ASP.NET Core Application.styles.css
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\scopedcss\projectbundle\First ASP.NET Core Application.bundle.scp.css
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\za5jk3yv28-{0}-b9sayid5wm-b9sayid5wm.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\fltkf0kzmo-{0}-61n19gt1b8-61n19gt1b8.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\zsobnsohc4-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\y1x1ydn0dj-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\pt2uxvskgm-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\s3wza7r3eb-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\v0vhz1wo9d-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\9538sfkcyk-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\u9bplw9inj-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\jgtw12at4l-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\3a09wgmcr2-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\ridqtbzalw-{0}-ub07r2b239-ub07r2b239.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\jixs805car-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\53olw19th5-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\5hwnvcx3f0-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\x7x84dqppv-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\ealrd7fzxi-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\gkw73wbww0-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\mrg0kz9h5h-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\qzewyj3pre-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\g7jcyts4uy-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\l725c3op0r-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\idtgnlr853-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\q8n8zk9i2o-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\4nmasqo8xq-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\s3k3l777ch-{0}-06098lyss8-06098lyss8.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\lnv2sh4e40-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\hvoluovs1f-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\ymuphrt29n-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\4hthuht336-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\l6ijgyu012-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\33tx64b5zr-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\m1hm5lrodq-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\nyhhkxtk9j-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\6i1lndkb0k-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\80opknfnv7-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\3vtwgodh4h-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\r6q1maj59j-{0}-493y06b0oq-493y06b0oq.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\qr3vxstx8q-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\dchfw4ichy-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\zroxhbtl5u-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\iea94hriu7-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\ywyy28yoy8-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\3f1eg8b332-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\rh1lo6wtwf-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\3gp4myoyds-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\jk5eu20t7r-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\gb8cxqsw8r-{0}-47otxtyo56-47otxtyo56.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\91ysxxk40k-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\5bqujjpolt-{0}-356vix0kms-356vix0kms.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\nq9h3bao44-{0}-83jwlth58m-83jwlth58m.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\xblnfq4ocr-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\mug5md465o-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\sbaq1hprg8-{0}-ag7o75518u-ag7o75518u.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\a9lha80nal-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\0lyv8fjpr1-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\1q76p50hty-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\rqzcrmey5c-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\e2akeylox3-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\h4j7hw0rr1-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\i0v5vgc0dr-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\btdkhssqwt-{0}-mlv21k5csn-mlv21k5csn.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\pn2f7k62ir-{0}-oynpdr2yiq-oynpdr2yiq.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\compressed\ssopgwjiqa-{0}-oynpdr2yiq-oynpdr2yiq.gz
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\staticwebassets.build.json
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\staticwebassets.development.json
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\swae.build.ex.cache
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\First ASP.NET Core Application.dll
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\refint\First ASP.NET Core Application.dll
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\First ASP.NET Core Application.pdb
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\First ASP.NET Core Application.genruntimeconfig.cache
+E:\Intership 2026\.Net\First ASP.NET Core Application\obj\Debug\net10.0\ref\First ASP.NET Core Application.dll
