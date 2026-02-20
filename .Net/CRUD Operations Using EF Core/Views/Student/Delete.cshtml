@@ -1,0 +1,10 @@
+@model StudentCrudApp.Models.Student
+
+<h2>Delete</h2>
+
+<h4>Are you sure?</h4>
+
+<form asp-action="Delete">
+<input type="hidden" asp-for="Id" />
+<button type="submit">Delete</button>
+</form>

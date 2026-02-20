@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("First ASP.NET Core Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bab918912029591c80a19f26d46f1d60c899f7de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffa6bb77c84bf1210eebffc75e5d82216f389776")]
 [assembly: System.Reflection.AssemblyProductAttribute("First ASP.NET Core Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("First ASP.NET Core Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

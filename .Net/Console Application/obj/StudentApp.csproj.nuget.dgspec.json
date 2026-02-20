@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Intership 2026\\.Net\\StudentApp\\StudentApp.csproj": {}
+    "E:\\Intership 2026\\.Net\\Console Application\\StudentApp.csproj": {}
   },
   "projects": {
-    "E:\\Intership 2026\\.Net\\StudentApp\\StudentApp.csproj": {
+    "E:\\Intership 2026\\.Net\\Console Application\\StudentApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Intership 2026\\.Net\\StudentApp\\StudentApp.csproj",
+        "projectUniqueName": "E:\\Intership 2026\\.Net\\Console Application\\StudentApp.csproj",
         "projectName": "StudentApp",
-        "projectPath": "E:\\Intership 2026\\.Net\\StudentApp\\StudentApp.csproj",
+        "projectPath": "E:\\Intership 2026\\.Net\\Console Application\\StudentApp.csproj",
         "packagesPath": "C:\\Users\\Aryan Lad\\.nuget\\packages\\",
-        "outputPath": "E:\\Intership 2026\\.Net\\StudentApp\\obj\\",
+        "outputPath": "E:\\Intership 2026\\.Net\\Console Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aryan Lad\\AppData\\Roaming\\NuGet\\NuGet.Config"
