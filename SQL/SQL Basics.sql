@@ -51,7 +51,7 @@ SELECT *
 FROM students
 ORDER BY marks DESC;
 
---6. Display Top 3 scorers 
+--6. Display Top 3 scorers  
 
 SELECT TOP 3 *
 FROM students
