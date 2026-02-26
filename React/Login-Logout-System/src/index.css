@@ -1,0 +1,203 @@
+/* ========== GLOBAL RESET ========== */
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  font-family: "Poppins",system-ui;
+  min-height:100vh;
+  background: linear-gradient(-45deg,#0f2027,#203a43,#2c5364,#1c92d2);
+  background-size:400% 400%;
+  animation: gradientBG 12s ease infinite;
+  color:white;
+}
+
+/* animated background */
+@keyframes gradientBG{
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+
+/* center wrapper */
+.center{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+  padding:20px;
+}
+
+/* ========== CARD GLASS UI ========== */
+.card{
+  backdrop-filter: blur(18px);
+  background: rgba(255,255,255,0.08);
+  border:1px solid rgba(255,255,255,0.2);
+  border-radius:20px;
+  padding:40px;
+  width:320px;
+  text-align:center;
+  box-shadow:0 25px 60px rgba(0,0,0,.4);
+  animation: floatUp .7s ease;
+  transition:.4s;
+}
+
+.card:hover{
+  transform:translateY(-6px) scale(1.01);
+}
+
+/* entry animation */
+@keyframes floatUp{
+  from{
+    opacity:0;
+    transform:translateY(40px) scale(.9);
+  }
+  to{
+    opacity:1;
+    transform:translateY(0) scale(1);
+  }
+}
+
+.card h2{
+  margin-bottom:20px;
+  letter-spacing:1px;
+}
+
+/* ========== INPUTS ========== */
+input{
+  width:100%;
+  padding:14px;
+  margin:12px 0;
+  border-radius:12px;
+  border:none;
+  outline:none;
+  font-size:15px;
+  background:rgba(255,255,255,.15);
+  color:white;
+  backdrop-filter:blur(5px);
+  transition:.3s;
+}
+
+input::placeholder{
+  color:rgba(255,255,255,.6);
+}
+
+input:focus{
+  background:rgba(255,255,255,.25);
+  transform:scale(1.03);
+  box-shadow:0 0 0 2px rgba(255,255,255,.3);
+}
+
+/* ========== BUTTON ========== */
+button{
+  width:100%;
+  padding:14px;
+  border:none;
+  border-radius:12px;
+  font-weight:bold;
+  letter-spacing:1px;
+  cursor:pointer;
+  margin-top:15px;
+  color:white;
+  background:linear-gradient(135deg,#00c6ff,#0072ff);
+  transition:.3s;
+  position:relative;
+  overflow:hidden;
+}
+
+button:hover{
+  transform:scale(1.05);
+  box-shadow:0 0 20px #00c6ff;
+}
+
+button:active{
+  transform:scale(.96);
+}
+
+/* glow animation */
+button::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:linear-gradient(120deg,transparent,rgba(255,255,255,.4),transparent);
+  transform:translateX(-100%);
+}
+
+button:hover::after{
+  animation:shine 1s;
+}
+
+@keyframes shine{
+  100%{ transform:translateX(100%) }
+}
+
+/* ========== ERROR TEXT ========== */
+.error{
+  color:#ff6b6b;
+  font-size:14px;
+  margin-top:8px;
+  animation:shake .3s;
+}
+
+@keyframes shake{
+  25%{transform:translateX(-4px)}
+  50%{transform:translateX(4px)}
+  75%{transform:translateX(-4px)}
+}
+
+/* ========== NAVBAR ========== */
+.nav{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  padding:18px 40px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  backdrop-filter:blur(20px);
+  background:rgba(0,0,0,.25);
+  border-bottom:1px solid rgba(255,255,255,.2);
+  z-index:100;
+}
+
+.nav h2{
+  letter-spacing:1px;
+}
+
+.nav a{
+  margin-right:20px;
+  color:white;
+  text-decoration:none;
+  position:relative;
+}
+
+/* animated underline */
+.nav a::after{
+  content:"";
+  position:absolute;
+  left:0;
+  bottom:-5px;
+  width:0%;
+  height:2px;
+  background:white;
+  transition:.3s;
+}
+
+.nav a:hover::after{
+  width:100%;
+}
+
+/* dashboard welcome text */
+h1{
+  font-size:28px;
+  margin-bottom:10px;
+  animation:fadeIn 1s ease;
+}
+
+@keyframes fadeIn{
+  from{opacity:0; transform:translateY(20px)}
+  to{opacity:1; transform:translateY(0)}
+}
